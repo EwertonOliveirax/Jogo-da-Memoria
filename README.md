@@ -1,17 +1,15 @@
-<img src="https://github.com/EwertonOliveirax/Jogo-da-Memoria/blob/main/img/Turma_da_M%C3%B4nica_Logo.png" alt="Logo Turma Da Monica" width="200"/> 
+<img src="https://github.com/EwertonOliveirax/Jogo-da-Memoria/blob/main/img/Turma_da_M%C3%B4nica_Logo.png"    ### Tópicos 
+ alt="Logo Turma Da Monica" width="200"/> 
 
+                                                                                                              - [Descrição do projeto](#descrição-do-projeto)
 
-### Tópicos 
+                                                                                                              - [Funcionalidades](#funcionalidades)
 
-- [Descrição do projeto](#descrição-do-projeto)
+                                                                                                              - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Funcionalidades](#funcionalidades)
+                                                                                                              - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
-
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-
-- [Desenvolvedor](#desenvolvedor)
+                                                                                                              - [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do projeto 
 
