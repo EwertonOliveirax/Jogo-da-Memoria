@@ -115,28 +115,28 @@ color: #fff;
   }
 
   h1 {
-    font-size: 60px;
+    font-size: 40px;
     margin: 0px;
   }
 
   .card {
-    height: 200px;
+    height: 110px;
     width: 46%;
-    margin: 2%;
+    margin: 1%;
+  }
+
+  #img {
+    width: 70px;
   }
 
   #logo {
     width: 150px;
   }
 
-  #img {
-    width: 140px;
-  }
-
   .scoreboard {
-    margin: 0px;
+    margin: 10px;
     font-family: sans-serif;
-    font-size: 21px;
+    font-size: 18px;
   }
 
   #restart-btn {
@@ -150,10 +150,19 @@ color: #fff;
   #logo {
     width: 120px;
   }
+
+  .card {
+    height: 110px;
+    margin: 5px;
+  }
+
+  #img {
+    width: 70px;
+  }
 }
 
-@media (max-device-width: 424px) {
+@media (max-device-width: 400px) {
   .scoreboard {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
