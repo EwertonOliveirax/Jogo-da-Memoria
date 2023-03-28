@@ -1,6 +1,4 @@
-<img src="https://github.com/EwertonOliveirax/Jogo-da-Memoria/blob/main/img/Turma_da_M%C3%B4nica_Logo.png" alt="Logo Turma Da Monica" width="200"/>
-
-### Tópicos 
+<img src="https://github.com/EwertonOliveirax/Jogo-da-Memoria/blob/main/img/Turma_da_M%C3%B4nica_Logo.png" alt="Logo Turma Da Monica" width="200"/> ### Tópicos 
 
 - [Descrição do projeto](#descrição-do-projeto)
 
